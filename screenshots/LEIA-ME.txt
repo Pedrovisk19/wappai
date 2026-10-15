@@ -1,0 +1,11 @@
+Aprecas adicionar aqui (na ordem de impacto):
+
+1. GIF/vídeo: mensagem real no celular → resposta do agente (~60s)
+2. Screenshot: inbox com conversa real respondida (nome do cliente censurado)
+3. Screenshot: fila de handoff com motivo ("cliente pediu humano")
+4. Screenshot: Swagger (o painel de docs) — evidencia a riqueza da API
+5. Screenshot: GitHub Actions verde (CI)
+6. Screenshot: painel de conversas + memória do cliente
+
+Dica: censurar dados de clientes reais (nome/telefone) — use a conversa de teste
+da própria Lumix para as capturas.
